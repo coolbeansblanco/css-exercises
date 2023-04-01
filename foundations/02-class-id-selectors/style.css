@@ -1,20 +1,20 @@
 
 .first_class{
-    color: blue;
-    background-color: red;
+    background-color: rgb(100, 65.6, 65.5);
 }
 
 .but_different{
-    font-style: italic;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
 }
 
 #first_id{
-    color:blueviolet;
-    background-color: green;
+    color:blue;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 #second_id{
-    color: green;
-    background-color: blueviolet;
+    font: bold;
+    font-size: 30px;
+    background-color: rgb(50.2, 100, 50.2);
 }
