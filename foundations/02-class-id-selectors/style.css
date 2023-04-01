@@ -1,0 +1,20 @@
+
+.first_class{
+    color: blue;
+    background-color: red;
+}
+
+.but_different{
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#first_id{
+    color:blueviolet;
+    background-color: green;
+}
+
+#second_id{
+    color: green;
+    background-color: blueviolet;
+}
