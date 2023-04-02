@@ -1,6 +1,8 @@
 div
 {
-    color: orange;
-    background-color: blue;
-    font-style: italic;
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
 }
