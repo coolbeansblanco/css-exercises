@@ -1,20 +1,19 @@
 
-.first_class{
-    background-color: rgb(100, 65.6, 65.5);
+.odd{
+    background-color: rgb(255, 192, 203);
+    font-family: Verdana, "Dejavu Sans", sans-serif;
 }
 
-.but_different{
-    font-size: 30px;
+.third, #fourth{
+    font-size: 24px;
 }
 
-#first_id{
-    color:blue;
-    font-size: 50px;
-    font-family: 'Courier New', Courier, monospace;
+#second{
+    color: #0000FF;
+    font-size: 36px;
 }
 
-#second_id{
-    font: bold;
-    font-size: 30px;
-    background-color: rgb(50.2, 100, 50.2);
+#fourth{
+    font-weight: bold;
+    background-color: hsl(120, 73%, 75%);
 }
